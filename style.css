@@ -1,0 +1,112 @@
+body {background-color: black;}
+body {
+    color: rgb(255, 255, 255);
+  }
+  h1 {
+    -webkit-text-stroke: 2px rgb(255, 255, 255);
+
+    font-family: sans; color: rgb(255, 255, 255);
+}
+  h1 {
+    color: rgb(255, 255, 255);
+  }
+  p {
+    color: rgb(255, 255, 255);
+  }
+  .h1 {
+    font-family: "Times New Roman", Times, serif;
+  }
+  .a {
+    font-family: "Times New Roman", Times, serif;
+  }
+
+body {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Times New Roman", Times, serif;
+    background-image:url(abstract-lines-dark-4k-mg-3840x2160.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+a {color: rgb(0, 221, 255);
+    transition: 1s;
+        
+        
+        }
+        a:hover{color: rgb(0, 157, 255);}
+
+mark {
+    color:mediumblue;
+}       
+nav a {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(55, 52, 52);
+}
+
+nav a{
+    float: left;
+}
+
+nav a {
+    display: block;
+    color: red;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+nav a a:hover:not(.active) {
+    background-color: grey;
+}
+
+.active {
+    background-color: green;
+}
+p {
+    color: red;
+}
+h1 {
+    color: red
+}
+h2 {
+    color: red
+}
+h3 {
+    color: red
+}
+a {
+    transition: 0,05s;
+    color: red;
+    font-size: medium;
+    }
+    
+    a:hover
+    {
+    color: white;
+    font-size: large;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+div maincontainer {
+    margin: 0 auto;
+    width: ___px;
+    text-align: center;
+}
+
+nav a {
+    float: left;
+ }
+ nav {
+    display: inline-block;
+ }
